@@ -6,12 +6,11 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrenc
 
 ### 🚀 Öne Çıkan Projelerim
 
-* **Rehabilitasyon Cihazı (TÜBİTAK):** Flutter ve GetX ile geliştirdiğim mobil uygulama. Donanım haberleşmesi için TCP/Socket tabanlı middleware entegrasyonu sağladım.
+* **Rehabilitasyon Cihazı:** Flutter ve GetX ile geliştirdiğim mobil uygulama. Donanım haberleşmesi için TCP/Socket tabanlı middleware entegrasyonu sağladım.
 * **Bilet Pazarı:** ULUTEK Teknopark stajımda Java, Spring Boot, Spring Data JPA ve PostgreSQL kullanarak geliştirdiğim bilet satış platformu.
 * **VetKlinikWeb:** ASP.NET Core MVC, Entity Framework Core ve MSSQL ile geliştirdiğim kapsamlı veteriner kliniği otomasyonu.
-* **StajPort:** Öğrenciler ile firmaları eşleştirmek amacıyla Java Spring Boot ve Flutter mimarisiyle geliştirmeye başladığım platform.
 * **BalloCode:** HTML5 Canvas ve Vanilla JavaScript ile sıfırdan kodladığım iki oyunculu, interaktif web oyunu.
-* **Oyun & AR/VR:** Unity, C#, Vuforia ve AR Foundation kullanarak geliştirdiğim *Hooked Again* (2D arcade), 3D simülasyonlar ve *AR-Book* uygulamaları.
+* **Oyun & AR/VR:** Unity, C#, Vuforia ve AR Foundation kullanarak geliştirdiğim *Hooked Again* (2D), 3D simülasyonlar ve *AR-Book, AR-Ground-Plane* uygulamaları.
 
 ---
 
