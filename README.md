@@ -1,4 +1,4 @@
-### Merhaba, Ben Bengü Nur! 👋
+### Merhaba, Ben Bengü Nur! 👩‍💻
 
 Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Mobil, Web, Oyun ve AR/VR alanlarında uçtan uca projeler geliştiriyorum. 
 
@@ -36,6 +36,12 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrenc
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 
 ---
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bengunurtelli&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengunurtelli&layout=compact&langs_count=5&theme=transparent&hide_border=true" height="160" />
+</p>
 
 ### 📫 İletişim
 
