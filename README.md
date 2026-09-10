@@ -6,12 +6,11 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrenc
 
 ### 🚀 Öne Çıkan Projelerim
 
-* **Rehabilitasyon Cihazı:** Flutter ve GetX ile geliştirdiğim mobil uygulama. Donanım haberleşmesi için TCP/Socket tabanlı middleware entegrasyonu sağladım.
+* **[Rehabilitasyon Cihazı](https://github.com/bengunurtelli/rehabilitasyoncihazi_sistemi):** Flutter ve GetX ile geliştirdiğim mobil uygulama. Donanım haberleşmesi için TCP/Socket tabanlı middleware entegrasyonu sağladım.
 * **Bilet Pazarı:** ULUTEK Teknopark stajımda Java, Spring Boot, Spring Data JPA ve PostgreSQL kullanarak geliştirdiğim bilet satış platformu.
-* **VetKlinikWeb:** ASP.NET Core MVC, Entity Framework Core ve MSSQL ile geliştirdiğim kapsamlı veteriner kliniği otomasyonu.
-* **BalloCode:** HTML5 Canvas ve Vanilla JavaScript ile sıfırdan kodladığım iki oyunculu, interaktif web oyunu.
-* **Oyun & AR/VR:** Unity, C#, Vuforia ve AR Foundation kullanarak geliştirdiğim *Hooked Again* (2D), 3D simülasyonlar ve *AR-Book, AR-Ground-Plane* uygulamaları.
-
+* **[VetKlinikWeb](https://github.com/bengunurtelli/VetKlinikWeb):** ASP.NET Core MVC, Entity Framework Core ve MSSQL ile geliştirdiğim kapsamlı veteriner kliniği otomasyonu.
+* **[BalloCode](https://github.com/bengunurtelli/BalloCode):** HTML5 Canvas ve Vanilla JavaScript ile sıfırdan kodladığım iki oyunculu, interaktif web oyunu.
+* **Oyun & AR/VR:** Unity, C#, Vuforia ve AR Foundation kullanarak geliştirdiğim *Hooked Again* (2D), [3D simülasyonlar](https://github.com/bengunurtelli/Bengus-Koyu-3D-Simulasyonu) ve *[AR-Book](https://github.com/bengunurtelli/AR-Book-Projesi), [AR-Ground-Plane](https://github.com/bengunurtelli/AR-Ground-Plane-Projesi)* uygulamaları.
 ---
 
 ### 🌱 Şu An Neler Yapıyorum?
@@ -34,14 +33,6 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrenc
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-
----
-
-
-### 📊 GitHub İstatistiklerim
-
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=bengunurtelli&show_icons=true&theme=transparent&hide_border=true)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs?username=bengunurtelli&layout=compact&langs_count=5&theme=transparent&hide_border=true)
 
 ---
 
